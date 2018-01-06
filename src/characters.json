@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Totoro",
+        "url": "../pulic/images/big-totoro.jpeg"
+    },
+    {
+      "id": 2,
+        "name": "Catbus",
+        "url": "../pulic/images/catbus.jpg"
+    },
+    {
+      "id": 3,
+        "name": "Chihiro",
+        "url": "../pulic/images/chihiro.jpg"
+    },
+    {
+      "id": 4,
+        "name": "Howl",
+        "url": "../public/images/howl-jenkins-pendragon.jpg"
+    },
+    {
+      "id": 5,
+        "name": "Jiji",
+        "url": "../public/images/jiji.png"
+    },
+    {
+      "id": 6,
+        "name": "JiroHorikoshi",
+        "url": "..//public/images/jiro-horikoshi.jpg"
+    },
+    {
+      "id": 7,
+        "name": "LaputianRobot",
+        "url": "../public/images/laputian-robot.jpg"
+    },
+    {
+      "id": 8,
+        "name": "MoroAndMononoke",
+        "url": "../public/images/moro-and-princess-mononoke.jpg"
+    },
+    {
+      "id": 9,
+        "name": "PorcoRosso",
+        "url": "../public/images/porco-rosso.jpg"
+    },
+    {
+      "id": 10,
+        "name": "NoFace",
+        "url": "../public/images/no-face.jpg"
+    },
+    {
+      "id": 11,
+        "name": "PrincessKaguya",
+        "url": "../public/images/princess-kaguya.png"
+    },
+    {
+      "id": 12,
+        "name": "SeitaAndStesuko",
+        "url": "../public/images/seita-and-stesuko-grave-of-fireflies.jpg"
+    }
+
+]

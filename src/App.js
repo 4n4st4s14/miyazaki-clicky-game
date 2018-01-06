@@ -1,19 +1,36 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import CharCard from './components/CharCard';
+import Wrapper from './components/Wrapper';
+import Title from './components/Title';
+//need to import images to state
+import characters from './characters.json';
 
 class App extends Component {
+
+  state = {
+    characters
+
+  };
+
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
+    <Wrapper>
+      <Title>Miyazaki Clicky Game</Title>
+      {this.state.characters.map(characters => (
+
+        <CharCard
+          key={characters.id}
+          name={characters.name}
+          url={characters.url}
+          id={characters.id}
+
+          />
+      ))}
+
+    </Wrapper>
     );
   }
 }
