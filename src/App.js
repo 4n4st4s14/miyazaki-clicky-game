@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import CharCard from './components/CharCard';
 import Wrapper from './components/Wrapper';
@@ -20,7 +20,7 @@ class App extends Component {
 
 
       componentDidMount() {
-        
+
       }
   //randomize the array
 
