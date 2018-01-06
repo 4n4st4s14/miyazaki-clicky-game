@@ -2,62 +2,62 @@
     {
         "id": 1,
         "name": "Totoro",
-        "url": "../pulic/images/big-totoro.jpeg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/big-totoro.jpeg?w=800"
     },
     {
       "id": 2,
         "name": "Catbus",
-        "url": "../pulic/images/catbus.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/catbus.jpg"
     },
     {
       "id": 3,
         "name": "Chihiro",
-        "url": "../pulic/images/chihiro.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2015/07/spirited-away-680-1.jpg?w=683"
     },
     {
       "id": 4,
         "name": "Howl",
-        "url": "../public/images/howl-jenkins-pendragon.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/howl-jenkins-pendragon.jpg?w=1110"
     },
     {
       "id": 5,
         "name": "Jiji",
-        "url": "../public/images/jiji.png"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/jiji-kiki.png?w=853"
     },
     {
       "id": 6,
         "name": "JiroHorikoshi",
-        "url": "..//public/images/jiro-horikoshi.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/the-wind-rises08.jpg?w=1109"
     },
     {
       "id": 7,
         "name": "LaputianRobot",
-        "url": "../public/images/laputian-robot.jpg"
+        "url": "http://dl9fvu4r30qs1.cloudfront.net/4a/74/b2a8386e4fdbb5e0f101bc6fdf8c/castle-in-the-sky.jpg"
     },
     {
       "id": 8,
         "name": "MoroAndMononoke",
-        "url": "../public/images/moro-and-princess-mononoke.jpg"
+        "url": "http://dl9fvu4r30qs1.cloudfront.net/5f/7f/5c0279ac4d0e98289a8cd2f89fde/princess-mononke.jpg"
     },
     {
       "id": 9,
         "name": "PorcoRosso",
-        "url": "../public/images/porco-rosso.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/porco-rosso.jpg?w=1067"
     },
     {
       "id": 10,
         "name": "NoFace",
-        "url": "../public/images/no-face.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/no-face.jpg?w=856"
     },
     {
       "id": 11,
         "name": "PrincessKaguya",
-        "url": "../public/images/princess-kaguya.png"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/princess-kaguya-laughing.png?w=1095"
     },
     {
       "id": 12,
         "name": "SeitaAndStesuko",
-        "url": "../public/images/seita-and-stesuko-grave-of-fireflies.jpg"
+        "url": "http://www.indiewire.com/wp-content/uploads/2016/08/seita-and-stesuko-grave-of-fireflies.jpg?w=1011"
     }
 
 ]
