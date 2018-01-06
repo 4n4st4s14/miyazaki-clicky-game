@@ -19,6 +19,9 @@ class App extends Component {
   };
 
 
+      componentDidMount() {
+        
+      }
   //randomize the array
 
 randomize = array => {
