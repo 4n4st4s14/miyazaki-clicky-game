@@ -83,6 +83,7 @@ clicked = id => {
         topScore={this.state.topScore}
         />
       <Title>Miyazaki Clicky Game</Title>
+    
       {this.state.characters.map(characters => (
 
         <CharCard
