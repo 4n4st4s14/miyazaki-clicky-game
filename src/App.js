@@ -53,7 +53,7 @@ clicked = id => {
       message: "You already clicked that one :/",
       currentScore: 0,
       characters,
-      topScore: this.state.currentScore,
+      topScore: (this.state.currentScore > this.state.topScore) ? this.state.currentScore : this.state.topScore,
       unClicked: characters
     });
   }else{
