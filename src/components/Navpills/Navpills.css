@@ -1,5 +1,8 @@
+
+
 .nav-pills {
 
+    padding-top: 10px;
     background: #847996;
     min-height: 65px;
     width: 100%;
@@ -10,6 +13,7 @@
     font-weight: bold;
     z-index: 99;
     white-space: nowrap;
+
 
 }
 

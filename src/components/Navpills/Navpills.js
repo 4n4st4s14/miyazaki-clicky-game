@@ -4,7 +4,7 @@ import './Navpills.css';
 const Navpills = props =>
 
 
-  <ul className="nav nav-tabs nav-pills nav-justified">
+  <ul className="nav  nav-pills nav-justified">
     <li >
       <a>Clicky Game</a>
     </li>
